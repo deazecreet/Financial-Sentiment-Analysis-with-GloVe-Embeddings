@@ -1,4 +1,4 @@
-# Financial-Sentiment-Analysis-with-GloVe-Embeddings
+# Financial Phrasebank Dataset Sentiment Analysis with GloVe Embeddings and LSTM Model
 
 ## Project Overview
 This project delves into Natural Language Processing (NLP) to perform sentiment analysis on financial texts. Using the `financial_phrasebank` dataset from HuggingFace, we classify sentences into negative, neutral, and positive sentiments. The model leverages GloVe embeddings to enhance feature representation of text data, significantly improving classification accuracy.
